@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Load data
 
-data = pd.read_csv('C:\\Users\\SFL-3\\superstore_dataset2011-2015.csv',encoding="ISO-8859-1")
+data = pd.read_csv('C:\Users\asati\OneDrive\Desktop\python\Super_store_Sales\superstore.csv',encoding="ISO-8859-1")
 
 
 # Sidebar
